@@ -3,7 +3,7 @@ curk - control your keynote
 
 ## Usage
 
-First, execute code below on your Mac:
+First, execute the commandline below on your Mac terminal:
 
 ```bash
 npm install  # install dependencies
@@ -16,9 +16,9 @@ Then, open `http://[your mac ip]:8888/` on your mobile phone.
 
 Finally, it's done!
 
-Swift left: Next slide
+Swipe left: next slide
 
-Swift right: Previous slide
+Swipe right: previous slide
 
 ## License
 
